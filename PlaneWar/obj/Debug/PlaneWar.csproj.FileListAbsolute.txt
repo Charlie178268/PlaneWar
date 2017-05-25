@@ -1,0 +1,9 @@
+E:\CSharp\csharp5_Project\PlaneWar\PlaneWar\bin\Debug\PlaneWar.exe.config
+E:\CSharp\csharp5_Project\PlaneWar\PlaneWar\bin\Debug\PlaneWar.exe
+E:\CSharp\csharp5_Project\PlaneWar\PlaneWar\bin\Debug\PlaneWar.pdb
+E:\CSharp\csharp5_Project\PlaneWar\PlaneWar\obj\Debug\PlaneWar.csprojResolveAssemblyReference.cache
+E:\CSharp\csharp5_Project\PlaneWar\PlaneWar\obj\Debug\PlaneWar.Form1.resources
+E:\CSharp\csharp5_Project\PlaneWar\PlaneWar\obj\Debug\PlaneWar.Properties.Resources.resources
+E:\CSharp\csharp5_Project\PlaneWar\PlaneWar\obj\Debug\PlaneWar.csproj.GenerateResource.Cache
+E:\CSharp\csharp5_Project\PlaneWar\PlaneWar\obj\Debug\PlaneWar.exe
+E:\CSharp\csharp5_Project\PlaneWar\PlaneWar\obj\Debug\PlaneWar.pdb
